@@ -2,7 +2,7 @@
 
 ```bash
 Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python, MongoDB y Jenkins.
-Fernandez Sadaña Alber Yoel
+Fernandez Saldaña Alber Yoel
 Fecha: 17.10.2025
 ```
 
